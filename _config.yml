@@ -1,0 +1,28 @@
+name: X8bit
+favicon: null
+layout_spectrum: 0.22833034512586892
+typography_spectrum: 0.2989710394758731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.059413616079837084
+  lightness: 0.5446176077239215
+  saturation: 0.7975088332314044
+  rhythmicContrast: 0.8804997256956995
+purpose: []

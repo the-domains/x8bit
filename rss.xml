@@ -4,8 +4,15 @@
         <description><![CDATA[X8bit]]></description>
         <link>https://thegrid.ai/x8bit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:54:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/x8bit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Front-End]]></title>
+            <description><![CDATA[<article><h1>Front-End</h1><p>We strongly believe in web standards. In our front-end development process we use tools based on HTML5, CSS3 and JS to deliver cutting-edge web experiences. We have experience with AngularJS to build modular, testable and well architected applications quickly and with less effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42e016f0975ea7cfd2c9109ecb5bdacd21596fcb.png"></article>]]></description>
+            <link>https://thegrid.ai/x8bit/front-end/index.html</link>
+            <guid isPermaLink="false">dbb7584b-4de3-40d6-8f29-78d650018f05</guid>
+            <pubDate>Thu, 25 Feb 2016 21:54:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Backend]]></title>
             <description><![CDATA[<h1>Backend</h1>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Infrastructure]]></title>
-            <description><![CDATA[<article><h1>Infrastructure</h1><p>At X8bit, we develop high quality software on diverse technologies based on the Scrum methodology. We can provide more Cost-Effective solutions since our team is based in Mexico.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df922bf-d5d6-46f5-92f9-f48b791a28fb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Infrastructure</h1><p>At X8bit, we develop high quality software on diverse technologies based on the Scrum methodology. We can provide more Cost-Effective solutions since our team is based in Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/028152ae6239aa5ceab855104f701eb03ab9aea1.png"></article>]]></description>
             <link>https://thegrid.ai/x8bit/bc50e5b5-0515-4203-a989-28a9546573fc/index.html</link>
             <guid isPermaLink="false">bc50e5b5-0515-4203-a989-28a9546573fc</guid>
             <pubDate>Thu, 25 Feb 2016 21:52:24 GMT</pubDate>

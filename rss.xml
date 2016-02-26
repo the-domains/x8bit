@@ -4,7 +4,7 @@
         <description><![CDATA[X8bit]]></description>
         <link>https://thegrid.ai/x8bit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:53:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/x8bit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Backend]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Thu, 25 Feb 2016 21:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>At X8bit, we develop high quality software on diverse technologies based on the Scrum methodology. We can provide more Cost-Effective solutions since our team is based in Mexico.</p>]]></description>
+            <title><![CDATA[Infrastructure]]></title>
+            <description><![CDATA[<article><h1>Infrastructure</h1><p>At X8bit, we develop high quality software on diverse technologies based on the Scrum methodology. We can provide more Cost-Effective solutions since our team is based in Mexico.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df922bf-d5d6-46f5-92f9-f48b791a28fb.png"></article>]]></description>
             <link>https://thegrid.ai/x8bit/bc50e5b5-0515-4203-a989-28a9546573fc/index.html</link>
             <guid isPermaLink="false">bc50e5b5-0515-4203-a989-28a9546573fc</guid>
-            <pubDate>Thu, 25 Feb 2016 21:49:58 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 21:52:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

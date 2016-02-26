@@ -4,7 +4,7 @@
         <description><![CDATA[X8bit]]></description>
         <link>https://thegrid.ai/x8bit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/x8bit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Front-End]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Thu, 25 Feb 2016 21:56:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f0437a0-e530-4ff7-a468-05f4d7908ebb.png">]]></description>
+            <title><![CDATA[Infrastructure]]></title>
+            <description><![CDATA[<article><h1>Infrastructure</h1><p>We have experience using cloud based and dedicated infrastructure, using open-source tools like NGINX, Apache, Apache Tomcat to deliver web sites and applications with efficiency, reliability and security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab2df088bc93abe1ab67793a5b42c9783250e67.png"></article>]]></description>
             <link>https://thegrid.ai/x8bit/1b88feff-c1d1-40ec-b62c-0a8cb83ae6e0/index.html</link>
             <guid isPermaLink="false">1b88feff-c1d1-40ec-b62c-0a8cb83ae6e0</guid>
-            <pubDate>Thu, 25 Feb 2016 21:42:57 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 21:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infrastructure]]></title>
